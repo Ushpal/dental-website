@@ -1,0 +1,6 @@
+{
+  "name": "Shine Dental Clinic",
+  "description": "Premium pediatric and family dental care clinic specializing in gentle dentistry and international dental tourism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
